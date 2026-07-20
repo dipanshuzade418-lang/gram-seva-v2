@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base:'/gram arogaya v2/',
+  base:'/gram-seva-v2/',
   server: {
     port: 5173,
     proxy: {
